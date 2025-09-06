@@ -20,6 +20,4 @@ venv\Scripts\activate  # Windows
 
 ### Instalação de Dependências
 
-```bash
-pip install -r requirements.txt
-```
+As dependencias são instaladas pelo próprio Jupyter Notebook, no bloco `Environment Setup`.
